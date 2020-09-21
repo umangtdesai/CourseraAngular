@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Coursera Angular.iml" filepath="$PROJECT_DIR$/.idea/Coursera Angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fullstack-course5/.idea/fullstack-course5.iml" filepath="$PROJECT_DIR$/../fullstack-course5/.idea/fullstack-course5.iml" />
     </modules>
   </component>
 </project>
